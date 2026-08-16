@@ -30,8 +30,9 @@ Bağımlılıkları yüklemek için:
 ```bash
 pip install -r requirements.txt
 
+---## 
 
-## 📝 Medium Makalesi
+Medium Makalesi 📝
 Projenin detaylı iş zekası analizi, aykırı değer yaklaşımı ve görselleştirmelerine Medium üzerinden ulaşabilirsiniz:
 
-## 🔗 **Medium:** [Kime Kredi Verme(me)liyiz? Karar Ağaçları ve Random Forest ile Bankacılıkta Kredi Riski Analizi](https://medium.com/@yunusemredenizhan07/kime-kredi-verme-me-liyiz-01a8e65f7220)
+* **Medium:** [Kime Kredi Verme(me)liyiz? Karar Ağaçları ve Random Forest ile Bankacılıkta Kredi Riski Analizi](https://medium.com/@yunusemredenizhan07/kime-kredi-verme-me-liyiz-01a8e65f7220)
