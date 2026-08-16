@@ -2,6 +2,11 @@
 
 Bu proje, **Huawei Student Developers (HSD) & Türkiye Yapay Zeka Akademisi (TRAI) Veri Bilimi ve Makine Öğrenmesi Bootcamp** bitirme projesi olarak geliştirilmiştir.
 
+📝 Medium Makalesi
+Projenin detaylı iş zekası analizi, aykırı değer yaklaşımı ve görselleştirmelerine Medium üzerinden ulaşabilirsiniz:
+
+🔗 Medium: Kime Kredi Verme(me)liyiz? Karar Ağaçları ve Random Forest ile Bankacılıkta Kredi Riski Analizi(https://medium.com/@yunusemredenizhan07/kime-kredi-verme-me-liyiz-01a8e65f7220)
+
 ## 🎯 Projenin Amacı
 Bankacılık sektöründe kredi temerrütlerini (kredi riskini) Karar Ağaçları ve Random Forest algoritmalarıyla önceden tahmin etmek ve risk yönetimine veri odaklı stratejik içgörüler sunmaktır.
 
@@ -29,10 +34,3 @@ Bankacılık sektöründe kredi temerrütlerini (kredi riskini) Karar Ağaçlar�
 Bağımlılıkları yüklemek için:
 ```bash
 pip install -r requirements.txt
-
----## 
-
-Medium Makalesi 📝
-Projenin detaylı iş zekası analizi, aykırı değer yaklaşımı ve görselleştirmelerine Medium üzerinden ulaşabilirsiniz:
-
-* **Medium:** [Kime Kredi Verme(me)liyiz? Karar Ağaçları ve Random Forest ile Bankacılıkta Kredi Riski Analizi](https://medium.com/@yunusemredenizhan07/kime-kredi-verme-me-liyiz-01a8e65f7220)
