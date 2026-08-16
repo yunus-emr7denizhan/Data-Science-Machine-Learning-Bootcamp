@@ -15,4 +15,4 @@ env/
 .env
 
 # Dosyalar
-*.docx
+*.docx.venv/
