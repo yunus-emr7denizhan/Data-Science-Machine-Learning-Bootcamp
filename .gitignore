@@ -18,3 +18,5 @@ env/
 *.docx.venv/
 .venv/
 ~.docx
+*.docx
+~.docx
